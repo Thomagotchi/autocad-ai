@@ -1,0 +1,12 @@
+# Project outputs (PDFs, calc sheets, drawings) — kept out of version control
+projects/
+
+# Python
+__pycache__/
+*.pyc
+
+# AutoCAD temp/backup files
+*.bak
+*.dwl
+*.dwl2
+*.sv$
